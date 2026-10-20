@@ -1,4 +1,5 @@
 # Exospection
+[![CI](https://github.com/sciencedelicmetatech/exospection/actions/workflows/ci.yml/badge.svg)](https://github.com/sciencedelicmetatech/exospection/actions/workflows/ci.yml)
 [![FlightSpection](https://img.shields.io/badge/Powered%20by-FlightSpection-blue)](https://github.com/sciencedelicmetatech/flightspection)
 
 **The Three External Anchors for Complete Agent Memory Integrity**

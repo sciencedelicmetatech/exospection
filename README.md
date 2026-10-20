@@ -1,6 +1,6 @@
 # Exospection
 [![CI](https://github.com/sciencedelicmetatech/exospection/actions/workflows/ci.yml/badge.svg)](https://github.com/sciencedelicmetatech/exospection/actions/workflows/ci.yml)
-[![FlightSpection](https://img.shields.io/badge/Powered%20by-FlightSpection-blue)](https://github.com/sciencedelicmetatech/flightspection)
+[![Powered by FlightSpection](https://img.shields.io/badge/Powered%20by-FlightSpection-blue)](https://github.com/sciencedelicmetatech/flightspection)
 
 **The Three External Anchors for Complete Agent Memory Integrity**
 
@@ -14,9 +14,10 @@ Raell's Stack Theorem proves that a complete agent-memory integrity system requi
 | **Causal** | Where did this record come from? | Signed trace (Certificate) |
 | **Norm** | Is this record allowed here? | Signed policy (Proposer) |
 
-Without these three anchors, the stack is mathematically incomplete. A record can be intact, current, and faithfully delivered and still be revoked, causally misattributed, or contextually inappropriate.
+Without these three anchors, the stack is mathematically incomplete. A record can be intact, current, and faithfully delivered, and still be revoked, causally misattributed, or contextually inappropriate.
 
 ## Architecture
+
 ```text
 [ L1: Recallspection ]  <- 3 Anchors (AGMI L4)
           |

@@ -13,7 +13,7 @@ Raell's Stack Theorem proves that a complete agent-memory integrity system requi
 | **Causal** | Where did this record come from? | Signed trace (Certificate) |
 | **Norm** | Is this record allowed here? | Signed policy (Proposer) |
 
-Without these three anchors, the stack is mathematically incomplete. A record can be intact, current, and faithfully delivered—and still be revoked, causally misattributed, or contextually inappropriate.
+Without these three anchors, the stack is mathematically incomplete. A record can be intact, current, and faithfully delivered and still be revoked, causally misattributed, or contextually inappropriate.
 
 ## Architecture
 ```text
